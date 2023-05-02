@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  background-color: #112D4E;
+}
+
+.footer__year {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  color: #FFFFFF;
+}

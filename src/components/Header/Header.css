@@ -1,0 +1,14 @@
+.header {
+  height: 50px;
+  background-color: #3F72AF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+  text-transform: uppercase;
+}
